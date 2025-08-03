@@ -1,0 +1,31 @@
+{
+  "id": "4cfdcf8b-c1df-491a-9cd3-58615d12cc9b",
+  "alertId": "85700222-38b6-41b3-882a-3022605cf4d2",
+  "status": "OPEN",
+  "severity": "CRITICAL",
+  "title": "Security Incident: CRITICAL_ACTIVITY",
+  "description": "Critical risk activity detected: PROCESS_ACTIVITY",
+  "createdAt": "2025-07-04T14:31:27.796Z",
+  "evidence": [
+    {
+      "id": "f88fc07e-6764-42a6-9bd0-8f77a8e50ca4",
+      "type": "PROCESS_ACTIVITY",
+      "data": {
+        "pid": "7452",
+        "cpu": "51.9",
+        "memory": "0.4",
+        "command": "npm exec @chargebee/mcp",
+        "timestamp": "2025-07-04T14:31:27.795Z"
+      },
+      "timestamp": "2025-07-04T14:31:27.795Z",
+      "riskLevel": "CRITICAL"
+    }
+  ],
+  "timeline": [
+    {
+      "timestamp": "2025-07-04T14:31:27.796Z",
+      "event": "Incident created",
+      "details": "Auto-created from critical alert"
+    }
+  ]
+}
