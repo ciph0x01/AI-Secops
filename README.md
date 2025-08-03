@@ -1,12 +1,17 @@
-# 🛡️ AI Secops
+# 🛡️ AI-Secops
 
-A comprehensive repository for AI security operations, organized into clear categories for both offensive and defensive techniques.
+A comprehensive repository for AI security operations and research, organized into clear categories for both offensive and defensive techniques.
+
+## Overview
+
+This repository contains tools, documentation, and resources for AI security research and operations. It's designed to help security professionals understand and mitigate threats in AI systems.
 
 ## Structure
 
 ```
 ai-security/
-├── attacks/             # Offensive techniques
+├── attacks/             # Offensive techniques and red team tools
+├── defenses/            # Defensive strategies and blue team tools
 ├── defenses/            # Defensive strategies
 ├── case-studies/        # Real-world incidents and lessons
 ├── tools/               # Open-source utilities and scripts
