@@ -1,0 +1,38 @@
+{
+  "name": "stdio-productivity-companion",
+  "version": "1.0.0",
+  "description": "AI-powered developer productivity companion MCP server",
+  "main": "index.js",
+  "bin": {
+    "stdio-productivity-companion": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.0",
+    "node-fetch": "^3.3.2",
+    "ws": "^8.18.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "mcp",
+    "productivity",
+    "ai",
+    "development",
+    "automation"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/stdio-productivity-companion.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/stdio-productivity-companion/issues"
+  },
+  "homepage": "https://github.com/yourusername/stdio-productivity-companion#readme",
+  "type": "module"
+}
