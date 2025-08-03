@@ -1,6 +1,27 @@
 # 🛡️ AI Secops
 
-Welcome to the **AI Security** repository — your comprehensive resource for understanding and mitigating threats, vulnerabilities, and risks associated with Artificial Intelligence and Large Language Models (LLMs).
+A comprehensive repository for AI security operations, organized into clear categories for both offensive and defensive techniques.
+
+## Structure
+
+```
+ai-security/
+├── attacks/             # Offensive techniques
+├── defenses/            # Defensive strategies
+├── case-studies/        # Real-world incidents and lessons
+├── tools/               # Open-source utilities and scripts
+└── research-papers/     # Curated reading list of papers and blogs
+```
+
+## Usage
+
+Each directory contains specific tools and resources:
+
+- `attacks/`: Offensive tools and techniques for red teaming
+- `defenses/`: Defensive strategies and tools for protecting AI systems
+- `case-studies/`: Real-world incidents and lessons learned
+- `tools/`: Open-source utilities and scripts
+- `research-papers/`: Curated reading list of papers and blogs
 
 ---
 
