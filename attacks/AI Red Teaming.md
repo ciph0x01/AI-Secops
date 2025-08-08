@@ -117,7 +117,6 @@ At its core, AI Redteaming is about:
 
 * **Empathy:** Understanding who might be harmed or left out.
 * **Imagination:** Anticipating unexpected technical exploits, misuses, or human errors.
-
 This mindset catches more than logic errors; it finds social harms, psychological manipulation, and ethical challenges.
 
 AI Redteaming isn’t just a process—it’s a way of thinking: *expect the unexpected, adapt fast, and stay ahead.* By combining diverse minds and thinking beyond code, we create AI that’s not only secure but trustworthy and responsible.
