@@ -35,7 +35,7 @@ This methodology provides a systematic approach for conducting red team assessme
 | **Component** | **Testing Focus** | **Primary Vulnerabilities** |
 |---------------|-------------------|------------------------------|
 | **AI Chat Interface** | Prompt injection, jailbreaking, context manipulation | Safety bypass, harmful content generation |
-| **AI APIs** | Authentication, rate limiting | Unauthorized access, cost abuse, data exposure |
+| **AI APIs** | Authentication,Authorisation,rate limiting | Unauthorized access, cost abuse, data exposure |
 | **AI Models** | Behavioral consistency, alignment, robustness | Training data extraction, bias amplification |
 
 ### Testing Approach Matrix
