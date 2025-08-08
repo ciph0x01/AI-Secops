@@ -9,8 +9,7 @@
 1. **Organization Name**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 2. **Primary Industry / Sector**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 3. **Headquarters Location**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-4. **Number of Employees**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-5. **Primary Contact**
+4. **Primary Contact**
 
    * Name: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
    * Title / Department: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -128,12 +127,14 @@
     * Assess API security & abuse prevention
     * Support compliance readiness
     * Build an ongoing AI security improvement program
+
 19. **Success Metrics** *(select all that apply)*
 
     * Reduce jailbreak success rate to < X%
     * Increase safety mechanism effectiveness to > X%
     * Achieve API security score of > X/10
     * Meet regulatory compliance benchmarks
+
 20. **Preferred Engagement Model**
 
     * ☐ One-time assessment
