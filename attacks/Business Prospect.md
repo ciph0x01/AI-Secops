@@ -140,16 +140,7 @@
     * ☐ Quarterly testing
     * ☐ Continuous monitoring
 
----
-
-## **7. Decision Process**
-
-21. **Other Stakeholders Involved in Decision**
-
-    * Security: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    * AI/Engineering: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-    * Compliance / Legal: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-22. **Procurement / Decision Timeline**
+21. **Procurement / Decision Timeline**
 
     * ☐ Immediate (< 2 weeks)
     * ☐ Short-term (1–3 months)
