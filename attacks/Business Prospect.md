@@ -2,8 +2,6 @@
 
 *Enterprise Security Assessment & Consultation Intake Form*
 
----
-
 ## **1. Organization Profile**
 
 1. **Organization Name**: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -21,8 +19,6 @@
    * ☐ Security / Risk Management
    * ☐ AI / Data Science
    * ☐ Product / Engineering
-
----
 
 ## **2. AI System Overview**
 
@@ -45,8 +41,6 @@
    * ☐ Mobile Application
    * ☐ API Endpoints
    * ☐ Embedded / Integrated Platforms
-
----
 
 ## **3. Current Security Posture**
 
@@ -73,7 +67,6 @@
     * ☐ API abuse / cost exploitation
     * ☐ Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
 
 ## **4. Risk & Compliance Priorities**
 
@@ -94,7 +87,6 @@
     * EU AI Act
     * Other: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
----
 
 ## **5. Engagement Scope & Constraints**
 
@@ -116,7 +108,6 @@
     * ☐ Downtime restrictions
     * ☐ Data residency / handling restrictions
 
----
 
 ## **6. Business Impact & Objectives**
 
