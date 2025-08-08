@@ -11,8 +11,6 @@
 7. [Phase 5: Testing Execution](#phase-5-testing-execution)
 8. [Phase 6: Analysis & Validation](#phase-6-analysis--validation)
 9. [Phase 7: Reporting & Remediation](#phase-7-reporting--remediation)
-10. [Continuous Monitoring](#continuous-monitoring)
-
 ---
 
 ## Executive Summary
