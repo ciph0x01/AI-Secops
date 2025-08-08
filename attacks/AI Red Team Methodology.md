@@ -1,7 +1,4 @@
 # AI Red Team Methodology
-## Comprehensive Testing Framework for AI Chat, APIs & Models
-
----
 
 ## Table of Contents
 
@@ -88,15 +85,6 @@ This methodology provides a systematic approach for conducting red team assessme
 - ❌ Actual harmful content distribution
 - ❌ Unauthorized access to user data
 - ❌ Service disruption or denial-of-service
-
-### 1.3 Team Structure
-
-| **Role** | **Responsibilities** | **Key Skills** |
-|----------|---------------------|----------------|
-| **Prompt Engineer** | Adversarial input creation, jailbreaking | NLP, linguistics, creative writing |
-| **API Security Analyst** | Authentication testing, rate limit bypass | Web security, API testing, authentication |
-| **AI Safety Researcher** | Alignment testing, bias detection | ML theory, ethics, safety evaluation |
-| **Model Analyst** | Behavioral analysis, capability assessment | AI/ML expertise, statistical analysis |
 
 ---
 
