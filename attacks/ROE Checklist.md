@@ -69,14 +69,6 @@
 - [ ] **Context manipulation** permitted for conversation testing
 - [ ] **Multi-turn attack sequences** authorized for persistence testing
 
-#### **API Security Testing**
-- [ ] **Authentication bypass testing** permitted on designated endpoints
-- [ ] **Rate limiting assessment** authorized with specified thresholds
-- [ ] **Parameter injection testing** approved for input validation
-- [ ] **Token manipulation** allowed for authorization testing
-- [ ] **API enumeration** permitted for endpoint discovery
-- [ ] **Error message analysis** authorized for information disclosure
-
 #### **Documentation and Evidence**
 - [ ] **Screenshot capture** permitted for evidence collection
 - [ ] **Conversation logging** authorized for analysis
@@ -289,7 +281,6 @@
 #### **Ongoing Responsibilities**
 - [ ] **Responsible disclosure** timeline for public findings
 - [ ] **Confidentiality maintenance** for proprietary information
-- [ ] **Update notifications** for evolving attack techniques
 - [ ] **Consultation availability** for remediation questions
 - [ ] **Follow-up assessment** scheduling if required
 
